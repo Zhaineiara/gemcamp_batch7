@@ -1,2 +1,14 @@
 @import 'bootstrap/scss/bootstrap';
 @import 'bootstrap-icons/font/bootstrap-icons';
+
+
+/* app/assets/stylesheets/application.css */
+.dropdown-item.active {
+  background-color: black !important; /* Set background color to black */
+  color: white !important; /* Set text color to white */
+}
+
+.nav-link.active {
+  background-color: black !important; /* Set navbar link background color to black */
+  color: white !important; /* Set navbar link text color to white */
+}
